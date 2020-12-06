@@ -1,4 +1,5 @@
-# modeling_network_resilience
+# Modeling Network Resilience
+
 ## Use Case Diagram
 The team identified five main actors that interact with the system: Authorized User, System Administrator, Security Administrator, External Threat Actor, and Internal Threat Actor. 
 
