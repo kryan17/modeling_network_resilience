@@ -1,0 +1,31 @@
+[RESOURCES]
+Virtual Session Bandwidth
+Admin Bandwidth
+Streaming Service Bandwidth
+[VARIABLES]
+Start Virtual Session.NumberIn
+Start Virtual Session.NumberOut
+Admin Service.NumberOut
+Intrusion Detection.NumberOut True
+Admin Service.NumberIn
+Monitor Data.NumberOut
+Intrusion Detection.NumberOut False
+Bypass Authentication.NumberIn
+Bypass Authentication.NumberOut
+Intrusion Alert.NumberIn
+Intruder.NumberOut
+Monitor Data.NumberIn
+Report Dashboard.NumberIn
+Report Dashboard.NumberOut
+End Session.NumberOut
+Users Login to Network.NumberOut
+Streaming Service.NumberOut
+Streaming Service.NumberIn
+Authentication and Authorization.NumberOut True
+Authentication and Authorization.NumberOut False
+Admin Login.NumberOut
+Intrusion Alert.NumberOut
+Log Session Information.NumberIn
+Log Session Information.NumberOut
+Failed to Authenticate.NumberIn
+Failed to Authenticate.NumberOut

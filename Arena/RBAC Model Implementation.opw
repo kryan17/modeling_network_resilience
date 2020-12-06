@@ -1,0 +1,38 @@
+[RESOURCES]
+Virtual Session Bandwidth
+Admin Bandwidth
+Streaming Service Bandwidth
+[VARIABLES]
+Unauthorized.NumberOut
+Confirm Role3.NumberOut True
+Generate Report.NumberOut
+System Admin.NumberIn
+Monitor Data.NumberOut
+Intruder1.NumberOut
+Intrusion Alert.NumberIn
+Intruder2.NumberOut
+Monitor Data.NumberIn
+Location4.NumberOut
+Subscriber.NumberOut
+Begin Streaming Session.NumberIn
+Confirm Role1.NumberOut True
+Admin2.NumberOut
+Admin1.NumberOut
+Trial.NumberIn
+Exit.NumberOut
+Begin Streaming Session.NumberOut
+Confirm Role1.NumberOut False
+Confirm Role2.NumberOut True
+System Admin.NumberOut
+Location2.NumberOut
+Location3.NumberOut
+Trial.NumberOut
+Location1.NumberOut
+Confirm Role2.NumberOut False
+Subscriber.NumberIn
+Intrusion Alert.NumberOut
+Begin Trial Service.NumberIn
+Begin Trial Service.NumberOut
+Unauthorized.NumberIn
+Generate Report.NumberIn
+Confirm Role3.NumberOut False

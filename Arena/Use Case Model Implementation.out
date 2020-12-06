@@ -1,0 +1,82 @@
+
+                                      ARENA Simulation Results
+                                   Windows User - License: STUDENT
+
+                                  Summary for Replication 1 of 1
+
+Project: Unnamed Project                                             Run execution date :12/ 6/2020
+Analyst: Deepak                                                      Model revision date:12/ 6/2020
+
+Replication ended at time      : 8.0 Hours 
+Base Time Units: Hours
+
+                                           TALLY VARIABLES
+
+Identifier                                  Average   Half Width  Minimum    Maximum   Observations
+___________________________________________________________________________________________________
+
+Users.VATime                                .93560     .04031     .00977     1.7357        470    
+Users.NVATime                               .00000     .00000     .00000     .00000        470    
+Users.WaitTime                              .00000     .00000     .00000     .00000        470    
+Users.TranTime                              .00000     .00000     .00000     .00000        470    
+Users.OtherTime                             .00000     .00000     .00000     .00000        470    
+Users.TotalTime                             .93560     .04031     .00977     1.7357        470    
+Others.VATime                                   --         --         --         --          0
+Others.NVATime                                  --         --         --         --          0
+Others.WaitTime                                 --         --         --         --          0
+Others.TranTime                                 --         --         --         --          0
+Others.OtherTime                                --         --         --         --          0
+Others.TotalTime                                --         --         --         --          0
+Admins.VATime                               .02037     (Insuf)    .01240     .02600         20    
+Admins.NVATime                              .00000     (Insuf)    .00000     .00000         20    
+Admins.WaitTime                             .00000     (Insuf)    .00000     .00000         20    
+Admins.TranTime                             .00000     (Insuf)    .00000     .00000         20    
+Admins.OtherTime                            .00000     (Insuf)    .00000     .00000         20    
+Admins.TotalTime                            .02037     (Insuf)    .01240     .02600         20    
+Admin Service.Queue.WaitingTime             .00000     (Insuf)    .00000     .00000         16    
+Start Virtual Session.Queue.WaitingTime     .00000     .00000     .00000     .00000        477    
+Streaming Service.Queue.WaitingTime         .00000     .00000     .00000     .00000        468    
+
+                                     DISCRETE-CHANGE VARIABLES
+
+Identifier                                  Average   Half Width  Minimum    Maximum   Final Value
+___________________________________________________________________________________________________
+
+Users.WIP                                   58.331     (Corr)     .00000     77.000     50.000    
+Others.WIP                                  .00000     (Insuf)    .00000     .00000     .00000    
+Admins.WIP                                  .05092     (Insuf)    .00000     2.0000     .00000    
+Virtual Session Bandwidth.NumberBusy        10.461     .79277     .00000     19.000     6.0000    
+Virtual Session Bandwidth.NumberScheduled   20.000     (Insuf)    20.000     20.000     20.000    
+Virtual Session Bandwidth.Utilization       .52310     .03964     .00000     .95000     .30000    
+Admin Bandwidth.NumberBusy                  .00708     (Insuf)    .00000     1.0000     .00000    
+Admin Bandwidth.NumberScheduled             1.0000     (Insuf)    1.0000     1.0000     1.0000    
+Admin Bandwidth.Utilization                 .00708     (Insuf)    .00000     1.0000     .00000    
+Streaming Service Bandwidth.NumberBusy      43.717     (Corr)     .00000     62.000     38.000    
+Streaming Service Bandwidth.NumberSchedule  75.000     (Insuf)    75.000     75.000     75.000    
+Streaming Service Bandwidth.Utilization     .58290     (Corr)     .00000     .82667     .50667    
+Admin Service.Queue.NumberInQueue           .00000     (Insuf)    .00000     .00000     .00000    
+Start Virtual Session.Queue.NumberInQueue   .00000     (Insuf)    .00000     .00000     .00000    
+Streaming Service.Queue.NumberInQueue       .00000     (Insuf)    .00000     .00000     .00000    
+
+                                             OUTPUTS
+
+Identifier                                   Value
+_____________________________________________________________
+
+Users.NumberIn                              520.00    
+Users.NumberOut                             470.00    
+Others.NumberIn                             .00000    
+Others.NumberOut                            .00000    
+Admins.NumberIn                             20.000    
+Admins.NumberOut                            20.000    
+Virtual Session Bandwidth.NumberSeized      477.00    
+Virtual Session Bandwidth.ScheduledUtiliza  .52310    
+Admin Bandwidth.NumberSeized                16.000    
+Admin Bandwidth.ScheduledUtilization        .00708    
+Streaming Service Bandwidth.NumberSeized    468.00    
+Streaming Service Bandwidth.ScheduledUtili  .58290    
+System.NumberOut                            490.00    
+
+
+Simulation run time: 1.32 minutes.
+Simulation run complete.
