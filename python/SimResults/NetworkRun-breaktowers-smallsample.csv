@@ -1,0 +1,551 @@
+cell_id,tower_range,run_type,connection_check
+0,0.0,Break Tower: Aquia_Creek Ln,False
+0,0.0,Break Tower: Chesapeak River Ln,False
+0,0.0,Break Tower: Nguyen Engineering,False
+0,0.0,Break Tower: Patriot Cir,False
+0,0.0,Break Tower: Rivanna River Way,False
+0,0.1,Break Tower: Aquia_Creek Ln,False
+0,0.1,Break Tower: Chesapeak River Ln,False
+0,0.1,Break Tower: Nguyen Engineering,False
+0,0.1,Break Tower: Patriot Cir,False
+0,0.1,Break Tower: Rivanna River Way,False
+0,0.2,Break Tower: Aquia_Creek Ln,False
+0,0.2,Break Tower: Chesapeak River Ln,False
+0,0.2,Break Tower: Nguyen Engineering,False
+0,0.2,Break Tower: Patriot Cir,False
+0,0.2,Break Tower: Rivanna River Way,False
+0,0.30000000000000004,Break Tower: Aquia_Creek Ln,False
+0,0.30000000000000004,Break Tower: Chesapeak River Ln,True
+0,0.30000000000000004,Break Tower: Nguyen Engineering,True
+0,0.30000000000000004,Break Tower: Patriot Cir,True
+0,0.30000000000000004,Break Tower: Rivanna River Way,True
+0,0.4,Break Tower: Aquia_Creek Ln,False
+0,0.4,Break Tower: Chesapeak River Ln,True
+0,0.4,Break Tower: Nguyen Engineering,True
+0,0.4,Break Tower: Patriot Cir,True
+0,0.4,Break Tower: Rivanna River Way,True
+0,0.5,Break Tower: Aquia_Creek Ln,True
+0,0.5,Break Tower: Chesapeak River Ln,True
+0,0.5,Break Tower: Nguyen Engineering,True
+0,0.5,Break Tower: Patriot Cir,True
+0,0.5,Break Tower: Rivanna River Way,True
+0,0.6,Break Tower: Aquia_Creek Ln,True
+0,0.6,Break Tower: Chesapeak River Ln,True
+0,0.6,Break Tower: Nguyen Engineering,True
+0,0.6,Break Tower: Patriot Cir,True
+0,0.6,Break Tower: Rivanna River Way,True
+0,0.7,Break Tower: Aquia_Creek Ln,True
+0,0.7,Break Tower: Chesapeak River Ln,True
+0,0.7,Break Tower: Nguyen Engineering,True
+0,0.7,Break Tower: Patriot Cir,True
+0,0.7,Break Tower: Rivanna River Way,True
+0,0.7999999999999999,Break Tower: Aquia_Creek Ln,True
+0,0.7999999999999999,Break Tower: Chesapeak River Ln,True
+0,0.7999999999999999,Break Tower: Nguyen Engineering,True
+0,0.7999999999999999,Break Tower: Patriot Cir,True
+0,0.7999999999999999,Break Tower: Rivanna River Way,True
+0,0.8999999999999999,Break Tower: Aquia_Creek Ln,True
+0,0.8999999999999999,Break Tower: Chesapeak River Ln,True
+0,0.8999999999999999,Break Tower: Nguyen Engineering,True
+0,0.8999999999999999,Break Tower: Patriot Cir,True
+0,0.8999999999999999,Break Tower: Rivanna River Way,True
+0,0.9999999999999999,Break Tower: Aquia_Creek Ln,True
+0,0.9999999999999999,Break Tower: Chesapeak River Ln,True
+0,0.9999999999999999,Break Tower: Nguyen Engineering,True
+0,0.9999999999999999,Break Tower: Patriot Cir,True
+0,0.9999999999999999,Break Tower: Rivanna River Way,True
+1,0.0,Break Tower: Aquia_Creek Ln,False
+1,0.0,Break Tower: Chesapeak River Ln,False
+1,0.0,Break Tower: Nguyen Engineering,False
+1,0.0,Break Tower: Patriot Cir,False
+1,0.0,Break Tower: Rivanna River Way,False
+1,0.1,Break Tower: Aquia_Creek Ln,False
+1,0.1,Break Tower: Chesapeak River Ln,False
+1,0.1,Break Tower: Nguyen Engineering,False
+1,0.1,Break Tower: Patriot Cir,False
+1,0.1,Break Tower: Rivanna River Way,False
+1,0.2,Break Tower: Aquia_Creek Ln,False
+1,0.2,Break Tower: Chesapeak River Ln,True
+1,0.2,Break Tower: Nguyen Engineering,True
+1,0.2,Break Tower: Patriot Cir,True
+1,0.2,Break Tower: Rivanna River Way,True
+1,0.30000000000000004,Break Tower: Aquia_Creek Ln,True
+1,0.30000000000000004,Break Tower: Chesapeak River Ln,True
+1,0.30000000000000004,Break Tower: Nguyen Engineering,True
+1,0.30000000000000004,Break Tower: Patriot Cir,True
+1,0.30000000000000004,Break Tower: Rivanna River Way,True
+1,0.4,Break Tower: Aquia_Creek Ln,True
+1,0.4,Break Tower: Chesapeak River Ln,True
+1,0.4,Break Tower: Nguyen Engineering,True
+1,0.4,Break Tower: Patriot Cir,True
+1,0.4,Break Tower: Rivanna River Way,True
+1,0.5,Break Tower: Aquia_Creek Ln,True
+1,0.5,Break Tower: Chesapeak River Ln,True
+1,0.5,Break Tower: Nguyen Engineering,True
+1,0.5,Break Tower: Patriot Cir,True
+1,0.5,Break Tower: Rivanna River Way,True
+1,0.6,Break Tower: Aquia_Creek Ln,True
+1,0.6,Break Tower: Chesapeak River Ln,True
+1,0.6,Break Tower: Nguyen Engineering,True
+1,0.6,Break Tower: Patriot Cir,True
+1,0.6,Break Tower: Rivanna River Way,True
+1,0.7,Break Tower: Aquia_Creek Ln,True
+1,0.7,Break Tower: Chesapeak River Ln,True
+1,0.7,Break Tower: Nguyen Engineering,True
+1,0.7,Break Tower: Patriot Cir,True
+1,0.7,Break Tower: Rivanna River Way,True
+1,0.7999999999999999,Break Tower: Aquia_Creek Ln,True
+1,0.7999999999999999,Break Tower: Chesapeak River Ln,True
+1,0.7999999999999999,Break Tower: Nguyen Engineering,True
+1,0.7999999999999999,Break Tower: Patriot Cir,True
+1,0.7999999999999999,Break Tower: Rivanna River Way,True
+1,0.8999999999999999,Break Tower: Aquia_Creek Ln,True
+1,0.8999999999999999,Break Tower: Chesapeak River Ln,True
+1,0.8999999999999999,Break Tower: Nguyen Engineering,True
+1,0.8999999999999999,Break Tower: Patriot Cir,True
+1,0.8999999999999999,Break Tower: Rivanna River Way,True
+1,0.9999999999999999,Break Tower: Aquia_Creek Ln,True
+1,0.9999999999999999,Break Tower: Chesapeak River Ln,True
+1,0.9999999999999999,Break Tower: Nguyen Engineering,True
+1,0.9999999999999999,Break Tower: Patriot Cir,True
+1,0.9999999999999999,Break Tower: Rivanna River Way,True
+2,0.0,Break Tower: Aquia_Creek Ln,False
+2,0.0,Break Tower: Chesapeak River Ln,False
+2,0.0,Break Tower: Nguyen Engineering,False
+2,0.0,Break Tower: Patriot Cir,False
+2,0.0,Break Tower: Rivanna River Way,False
+2,0.1,Break Tower: Aquia_Creek Ln,False
+2,0.1,Break Tower: Chesapeak River Ln,False
+2,0.1,Break Tower: Nguyen Engineering,False
+2,0.1,Break Tower: Patriot Cir,False
+2,0.1,Break Tower: Rivanna River Way,False
+2,0.2,Break Tower: Aquia_Creek Ln,False
+2,0.2,Break Tower: Chesapeak River Ln,False
+2,0.2,Break Tower: Nguyen Engineering,False
+2,0.2,Break Tower: Patriot Cir,False
+2,0.2,Break Tower: Rivanna River Way,False
+2,0.30000000000000004,Break Tower: Aquia_Creek Ln,True
+2,0.30000000000000004,Break Tower: Chesapeak River Ln,False
+2,0.30000000000000004,Break Tower: Nguyen Engineering,True
+2,0.30000000000000004,Break Tower: Patriot Cir,True
+2,0.30000000000000004,Break Tower: Rivanna River Way,True
+2,0.4,Break Tower: Aquia_Creek Ln,True
+2,0.4,Break Tower: Chesapeak River Ln,False
+2,0.4,Break Tower: Nguyen Engineering,True
+2,0.4,Break Tower: Patriot Cir,True
+2,0.4,Break Tower: Rivanna River Way,True
+2,0.5,Break Tower: Aquia_Creek Ln,True
+2,0.5,Break Tower: Chesapeak River Ln,True
+2,0.5,Break Tower: Nguyen Engineering,True
+2,0.5,Break Tower: Patriot Cir,True
+2,0.5,Break Tower: Rivanna River Way,True
+2,0.6,Break Tower: Aquia_Creek Ln,True
+2,0.6,Break Tower: Chesapeak River Ln,True
+2,0.6,Break Tower: Nguyen Engineering,True
+2,0.6,Break Tower: Patriot Cir,True
+2,0.6,Break Tower: Rivanna River Way,True
+2,0.7,Break Tower: Aquia_Creek Ln,True
+2,0.7,Break Tower: Chesapeak River Ln,True
+2,0.7,Break Tower: Nguyen Engineering,True
+2,0.7,Break Tower: Patriot Cir,True
+2,0.7,Break Tower: Rivanna River Way,True
+2,0.7999999999999999,Break Tower: Aquia_Creek Ln,True
+2,0.7999999999999999,Break Tower: Chesapeak River Ln,True
+2,0.7999999999999999,Break Tower: Nguyen Engineering,True
+2,0.7999999999999999,Break Tower: Patriot Cir,True
+2,0.7999999999999999,Break Tower: Rivanna River Way,True
+2,0.8999999999999999,Break Tower: Aquia_Creek Ln,True
+2,0.8999999999999999,Break Tower: Chesapeak River Ln,True
+2,0.8999999999999999,Break Tower: Nguyen Engineering,True
+2,0.8999999999999999,Break Tower: Patriot Cir,True
+2,0.8999999999999999,Break Tower: Rivanna River Way,True
+2,0.9999999999999999,Break Tower: Aquia_Creek Ln,True
+2,0.9999999999999999,Break Tower: Chesapeak River Ln,True
+2,0.9999999999999999,Break Tower: Nguyen Engineering,True
+2,0.9999999999999999,Break Tower: Patriot Cir,True
+2,0.9999999999999999,Break Tower: Rivanna River Way,True
+3,0.0,Break Tower: Aquia_Creek Ln,False
+3,0.0,Break Tower: Chesapeak River Ln,False
+3,0.0,Break Tower: Nguyen Engineering,False
+3,0.0,Break Tower: Patriot Cir,False
+3,0.0,Break Tower: Rivanna River Way,False
+3,0.1,Break Tower: Aquia_Creek Ln,False
+3,0.1,Break Tower: Chesapeak River Ln,False
+3,0.1,Break Tower: Nguyen Engineering,False
+3,0.1,Break Tower: Patriot Cir,False
+3,0.1,Break Tower: Rivanna River Way,False
+3,0.2,Break Tower: Aquia_Creek Ln,False
+3,0.2,Break Tower: Chesapeak River Ln,False
+3,0.2,Break Tower: Nguyen Engineering,False
+3,0.2,Break Tower: Patriot Cir,False
+3,0.2,Break Tower: Rivanna River Way,False
+3,0.30000000000000004,Break Tower: Aquia_Creek Ln,True
+3,0.30000000000000004,Break Tower: Chesapeak River Ln,True
+3,0.30000000000000004,Break Tower: Nguyen Engineering,True
+3,0.30000000000000004,Break Tower: Patriot Cir,True
+3,0.30000000000000004,Break Tower: Rivanna River Way,False
+3,0.4,Break Tower: Aquia_Creek Ln,True
+3,0.4,Break Tower: Chesapeak River Ln,True
+3,0.4,Break Tower: Nguyen Engineering,True
+3,0.4,Break Tower: Patriot Cir,True
+3,0.4,Break Tower: Rivanna River Way,True
+3,0.5,Break Tower: Aquia_Creek Ln,True
+3,0.5,Break Tower: Chesapeak River Ln,True
+3,0.5,Break Tower: Nguyen Engineering,True
+3,0.5,Break Tower: Patriot Cir,True
+3,0.5,Break Tower: Rivanna River Way,True
+3,0.6,Break Tower: Aquia_Creek Ln,True
+3,0.6,Break Tower: Chesapeak River Ln,True
+3,0.6,Break Tower: Nguyen Engineering,True
+3,0.6,Break Tower: Patriot Cir,True
+3,0.6,Break Tower: Rivanna River Way,True
+3,0.7,Break Tower: Aquia_Creek Ln,True
+3,0.7,Break Tower: Chesapeak River Ln,True
+3,0.7,Break Tower: Nguyen Engineering,True
+3,0.7,Break Tower: Patriot Cir,True
+3,0.7,Break Tower: Rivanna River Way,True
+3,0.7999999999999999,Break Tower: Aquia_Creek Ln,True
+3,0.7999999999999999,Break Tower: Chesapeak River Ln,True
+3,0.7999999999999999,Break Tower: Nguyen Engineering,True
+3,0.7999999999999999,Break Tower: Patriot Cir,True
+3,0.7999999999999999,Break Tower: Rivanna River Way,True
+3,0.8999999999999999,Break Tower: Aquia_Creek Ln,True
+3,0.8999999999999999,Break Tower: Chesapeak River Ln,True
+3,0.8999999999999999,Break Tower: Nguyen Engineering,True
+3,0.8999999999999999,Break Tower: Patriot Cir,True
+3,0.8999999999999999,Break Tower: Rivanna River Way,True
+3,0.9999999999999999,Break Tower: Aquia_Creek Ln,True
+3,0.9999999999999999,Break Tower: Chesapeak River Ln,True
+3,0.9999999999999999,Break Tower: Nguyen Engineering,True
+3,0.9999999999999999,Break Tower: Patriot Cir,True
+3,0.9999999999999999,Break Tower: Rivanna River Way,True
+4,0.0,Break Tower: Aquia_Creek Ln,False
+4,0.0,Break Tower: Chesapeak River Ln,False
+4,0.0,Break Tower: Nguyen Engineering,False
+4,0.0,Break Tower: Patriot Cir,False
+4,0.0,Break Tower: Rivanna River Way,False
+4,0.1,Break Tower: Aquia_Creek Ln,False
+4,0.1,Break Tower: Chesapeak River Ln,False
+4,0.1,Break Tower: Nguyen Engineering,False
+4,0.1,Break Tower: Patriot Cir,False
+4,0.1,Break Tower: Rivanna River Way,False
+4,0.2,Break Tower: Aquia_Creek Ln,False
+4,0.2,Break Tower: Chesapeak River Ln,False
+4,0.2,Break Tower: Nguyen Engineering,False
+4,0.2,Break Tower: Patriot Cir,False
+4,0.2,Break Tower: Rivanna River Way,False
+4,0.30000000000000004,Break Tower: Aquia_Creek Ln,False
+4,0.30000000000000004,Break Tower: Chesapeak River Ln,False
+4,0.30000000000000004,Break Tower: Nguyen Engineering,False
+4,0.30000000000000004,Break Tower: Patriot Cir,False
+4,0.30000000000000004,Break Tower: Rivanna River Way,False
+4,0.4,Break Tower: Aquia_Creek Ln,False
+4,0.4,Break Tower: Chesapeak River Ln,False
+4,0.4,Break Tower: Nguyen Engineering,False
+4,0.4,Break Tower: Patriot Cir,False
+4,0.4,Break Tower: Rivanna River Way,False
+4,0.5,Break Tower: Aquia_Creek Ln,False
+4,0.5,Break Tower: Chesapeak River Ln,False
+4,0.5,Break Tower: Nguyen Engineering,False
+4,0.5,Break Tower: Patriot Cir,False
+4,0.5,Break Tower: Rivanna River Way,False
+4,0.6,Break Tower: Aquia_Creek Ln,False
+4,0.6,Break Tower: Chesapeak River Ln,False
+4,0.6,Break Tower: Nguyen Engineering,False
+4,0.6,Break Tower: Patriot Cir,False
+4,0.6,Break Tower: Rivanna River Way,False
+4,0.7,Break Tower: Aquia_Creek Ln,True
+4,0.7,Break Tower: Chesapeak River Ln,True
+4,0.7,Break Tower: Nguyen Engineering,True
+4,0.7,Break Tower: Patriot Cir,True
+4,0.7,Break Tower: Rivanna River Way,False
+4,0.7999999999999999,Break Tower: Aquia_Creek Ln,True
+4,0.7999999999999999,Break Tower: Chesapeak River Ln,True
+4,0.7999999999999999,Break Tower: Nguyen Engineering,True
+4,0.7999999999999999,Break Tower: Patriot Cir,True
+4,0.7999999999999999,Break Tower: Rivanna River Way,False
+4,0.8999999999999999,Break Tower: Aquia_Creek Ln,True
+4,0.8999999999999999,Break Tower: Chesapeak River Ln,True
+4,0.8999999999999999,Break Tower: Nguyen Engineering,True
+4,0.8999999999999999,Break Tower: Patriot Cir,True
+4,0.8999999999999999,Break Tower: Rivanna River Way,False
+4,0.9999999999999999,Break Tower: Aquia_Creek Ln,True
+4,0.9999999999999999,Break Tower: Chesapeak River Ln,True
+4,0.9999999999999999,Break Tower: Nguyen Engineering,True
+4,0.9999999999999999,Break Tower: Patriot Cir,True
+4,0.9999999999999999,Break Tower: Rivanna River Way,True
+5,0.0,Break Tower: Aquia_Creek Ln,False
+5,0.0,Break Tower: Chesapeak River Ln,False
+5,0.0,Break Tower: Nguyen Engineering,False
+5,0.0,Break Tower: Patriot Cir,False
+5,0.0,Break Tower: Rivanna River Way,False
+5,0.1,Break Tower: Aquia_Creek Ln,False
+5,0.1,Break Tower: Chesapeak River Ln,False
+5,0.1,Break Tower: Nguyen Engineering,False
+5,0.1,Break Tower: Patriot Cir,False
+5,0.1,Break Tower: Rivanna River Way,False
+5,0.2,Break Tower: Aquia_Creek Ln,False
+5,0.2,Break Tower: Chesapeak River Ln,False
+5,0.2,Break Tower: Nguyen Engineering,False
+5,0.2,Break Tower: Patriot Cir,False
+5,0.2,Break Tower: Rivanna River Way,False
+5,0.30000000000000004,Break Tower: Aquia_Creek Ln,False
+5,0.30000000000000004,Break Tower: Chesapeak River Ln,False
+5,0.30000000000000004,Break Tower: Nguyen Engineering,False
+5,0.30000000000000004,Break Tower: Patriot Cir,False
+5,0.30000000000000004,Break Tower: Rivanna River Way,False
+5,0.4,Break Tower: Aquia_Creek Ln,False
+5,0.4,Break Tower: Chesapeak River Ln,False
+5,0.4,Break Tower: Nguyen Engineering,False
+5,0.4,Break Tower: Patriot Cir,False
+5,0.4,Break Tower: Rivanna River Way,False
+5,0.5,Break Tower: Aquia_Creek Ln,False
+5,0.5,Break Tower: Chesapeak River Ln,False
+5,0.5,Break Tower: Nguyen Engineering,False
+5,0.5,Break Tower: Patriot Cir,False
+5,0.5,Break Tower: Rivanna River Way,False
+5,0.6,Break Tower: Aquia_Creek Ln,False
+5,0.6,Break Tower: Chesapeak River Ln,True
+5,0.6,Break Tower: Nguyen Engineering,True
+5,0.6,Break Tower: Patriot Cir,True
+5,0.6,Break Tower: Rivanna River Way,True
+5,0.7,Break Tower: Aquia_Creek Ln,True
+5,0.7,Break Tower: Chesapeak River Ln,True
+5,0.7,Break Tower: Nguyen Engineering,True
+5,0.7,Break Tower: Patriot Cir,True
+5,0.7,Break Tower: Rivanna River Way,True
+5,0.7999999999999999,Break Tower: Aquia_Creek Ln,True
+5,0.7999999999999999,Break Tower: Chesapeak River Ln,True
+5,0.7999999999999999,Break Tower: Nguyen Engineering,True
+5,0.7999999999999999,Break Tower: Patriot Cir,True
+5,0.7999999999999999,Break Tower: Rivanna River Way,True
+5,0.8999999999999999,Break Tower: Aquia_Creek Ln,True
+5,0.8999999999999999,Break Tower: Chesapeak River Ln,True
+5,0.8999999999999999,Break Tower: Nguyen Engineering,True
+5,0.8999999999999999,Break Tower: Patriot Cir,True
+5,0.8999999999999999,Break Tower: Rivanna River Way,True
+5,0.9999999999999999,Break Tower: Aquia_Creek Ln,True
+5,0.9999999999999999,Break Tower: Chesapeak River Ln,True
+5,0.9999999999999999,Break Tower: Nguyen Engineering,True
+5,0.9999999999999999,Break Tower: Patriot Cir,True
+5,0.9999999999999999,Break Tower: Rivanna River Way,True
+6,0.0,Break Tower: Aquia_Creek Ln,False
+6,0.0,Break Tower: Chesapeak River Ln,False
+6,0.0,Break Tower: Nguyen Engineering,False
+6,0.0,Break Tower: Patriot Cir,False
+6,0.0,Break Tower: Rivanna River Way,False
+6,0.1,Break Tower: Aquia_Creek Ln,False
+6,0.1,Break Tower: Chesapeak River Ln,False
+6,0.1,Break Tower: Nguyen Engineering,False
+6,0.1,Break Tower: Patriot Cir,False
+6,0.1,Break Tower: Rivanna River Way,False
+6,0.2,Break Tower: Aquia_Creek Ln,False
+6,0.2,Break Tower: Chesapeak River Ln,False
+6,0.2,Break Tower: Nguyen Engineering,False
+6,0.2,Break Tower: Patriot Cir,False
+6,0.2,Break Tower: Rivanna River Way,False
+6,0.30000000000000004,Break Tower: Aquia_Creek Ln,False
+6,0.30000000000000004,Break Tower: Chesapeak River Ln,False
+6,0.30000000000000004,Break Tower: Nguyen Engineering,False
+6,0.30000000000000004,Break Tower: Patriot Cir,False
+6,0.30000000000000004,Break Tower: Rivanna River Way,False
+6,0.4,Break Tower: Aquia_Creek Ln,False
+6,0.4,Break Tower: Chesapeak River Ln,False
+6,0.4,Break Tower: Nguyen Engineering,False
+6,0.4,Break Tower: Patriot Cir,False
+6,0.4,Break Tower: Rivanna River Way,False
+6,0.5,Break Tower: Aquia_Creek Ln,False
+6,0.5,Break Tower: Chesapeak River Ln,False
+6,0.5,Break Tower: Nguyen Engineering,False
+6,0.5,Break Tower: Patriot Cir,False
+6,0.5,Break Tower: Rivanna River Way,False
+6,0.6,Break Tower: Aquia_Creek Ln,False
+6,0.6,Break Tower: Chesapeak River Ln,False
+6,0.6,Break Tower: Nguyen Engineering,False
+6,0.6,Break Tower: Patriot Cir,False
+6,0.6,Break Tower: Rivanna River Way,False
+6,0.7,Break Tower: Aquia_Creek Ln,True
+6,0.7,Break Tower: Chesapeak River Ln,True
+6,0.7,Break Tower: Nguyen Engineering,True
+6,0.7,Break Tower: Patriot Cir,False
+6,0.7,Break Tower: Rivanna River Way,True
+6,0.7999999999999999,Break Tower: Aquia_Creek Ln,True
+6,0.7999999999999999,Break Tower: Chesapeak River Ln,True
+6,0.7999999999999999,Break Tower: Nguyen Engineering,True
+6,0.7999999999999999,Break Tower: Patriot Cir,False
+6,0.7999999999999999,Break Tower: Rivanna River Way,True
+6,0.8999999999999999,Break Tower: Aquia_Creek Ln,True
+6,0.8999999999999999,Break Tower: Chesapeak River Ln,True
+6,0.8999999999999999,Break Tower: Nguyen Engineering,True
+6,0.8999999999999999,Break Tower: Patriot Cir,False
+6,0.8999999999999999,Break Tower: Rivanna River Way,True
+6,0.9999999999999999,Break Tower: Aquia_Creek Ln,True
+6,0.9999999999999999,Break Tower: Chesapeak River Ln,True
+6,0.9999999999999999,Break Tower: Nguyen Engineering,True
+6,0.9999999999999999,Break Tower: Patriot Cir,True
+6,0.9999999999999999,Break Tower: Rivanna River Way,True
+7,0.0,Break Tower: Aquia_Creek Ln,False
+7,0.0,Break Tower: Chesapeak River Ln,False
+7,0.0,Break Tower: Nguyen Engineering,False
+7,0.0,Break Tower: Patriot Cir,False
+7,0.0,Break Tower: Rivanna River Way,False
+7,0.1,Break Tower: Aquia_Creek Ln,False
+7,0.1,Break Tower: Chesapeak River Ln,False
+7,0.1,Break Tower: Nguyen Engineering,False
+7,0.1,Break Tower: Patriot Cir,False
+7,0.1,Break Tower: Rivanna River Way,False
+7,0.2,Break Tower: Aquia_Creek Ln,True
+7,0.2,Break Tower: Chesapeak River Ln,True
+7,0.2,Break Tower: Nguyen Engineering,True
+7,0.2,Break Tower: Patriot Cir,True
+7,0.2,Break Tower: Rivanna River Way,False
+7,0.30000000000000004,Break Tower: Aquia_Creek Ln,True
+7,0.30000000000000004,Break Tower: Chesapeak River Ln,True
+7,0.30000000000000004,Break Tower: Nguyen Engineering,True
+7,0.30000000000000004,Break Tower: Patriot Cir,True
+7,0.30000000000000004,Break Tower: Rivanna River Way,True
+7,0.4,Break Tower: Aquia_Creek Ln,True
+7,0.4,Break Tower: Chesapeak River Ln,True
+7,0.4,Break Tower: Nguyen Engineering,True
+7,0.4,Break Tower: Patriot Cir,True
+7,0.4,Break Tower: Rivanna River Way,True
+7,0.5,Break Tower: Aquia_Creek Ln,True
+7,0.5,Break Tower: Chesapeak River Ln,True
+7,0.5,Break Tower: Nguyen Engineering,True
+7,0.5,Break Tower: Patriot Cir,True
+7,0.5,Break Tower: Rivanna River Way,True
+7,0.6,Break Tower: Aquia_Creek Ln,True
+7,0.6,Break Tower: Chesapeak River Ln,True
+7,0.6,Break Tower: Nguyen Engineering,True
+7,0.6,Break Tower: Patriot Cir,True
+7,0.6,Break Tower: Rivanna River Way,True
+7,0.7,Break Tower: Aquia_Creek Ln,True
+7,0.7,Break Tower: Chesapeak River Ln,True
+7,0.7,Break Tower: Nguyen Engineering,True
+7,0.7,Break Tower: Patriot Cir,True
+7,0.7,Break Tower: Rivanna River Way,True
+7,0.7999999999999999,Break Tower: Aquia_Creek Ln,True
+7,0.7999999999999999,Break Tower: Chesapeak River Ln,True
+7,0.7999999999999999,Break Tower: Nguyen Engineering,True
+7,0.7999999999999999,Break Tower: Patriot Cir,True
+7,0.7999999999999999,Break Tower: Rivanna River Way,True
+7,0.8999999999999999,Break Tower: Aquia_Creek Ln,True
+7,0.8999999999999999,Break Tower: Chesapeak River Ln,True
+7,0.8999999999999999,Break Tower: Nguyen Engineering,True
+7,0.8999999999999999,Break Tower: Patriot Cir,True
+7,0.8999999999999999,Break Tower: Rivanna River Way,True
+7,0.9999999999999999,Break Tower: Aquia_Creek Ln,True
+7,0.9999999999999999,Break Tower: Chesapeak River Ln,True
+7,0.9999999999999999,Break Tower: Nguyen Engineering,True
+7,0.9999999999999999,Break Tower: Patriot Cir,True
+7,0.9999999999999999,Break Tower: Rivanna River Way,True
+8,0.0,Break Tower: Aquia_Creek Ln,False
+8,0.0,Break Tower: Chesapeak River Ln,False
+8,0.0,Break Tower: Nguyen Engineering,False
+8,0.0,Break Tower: Patriot Cir,False
+8,0.0,Break Tower: Rivanna River Way,False
+8,0.1,Break Tower: Aquia_Creek Ln,False
+8,0.1,Break Tower: Chesapeak River Ln,False
+8,0.1,Break Tower: Nguyen Engineering,False
+8,0.1,Break Tower: Patriot Cir,False
+8,0.1,Break Tower: Rivanna River Way,False
+8,0.2,Break Tower: Aquia_Creek Ln,False
+8,0.2,Break Tower: Chesapeak River Ln,False
+8,0.2,Break Tower: Nguyen Engineering,False
+8,0.2,Break Tower: Patriot Cir,False
+8,0.2,Break Tower: Rivanna River Way,False
+8,0.30000000000000004,Break Tower: Aquia_Creek Ln,False
+8,0.30000000000000004,Break Tower: Chesapeak River Ln,False
+8,0.30000000000000004,Break Tower: Nguyen Engineering,False
+8,0.30000000000000004,Break Tower: Patriot Cir,False
+8,0.30000000000000004,Break Tower: Rivanna River Way,False
+8,0.4,Break Tower: Aquia_Creek Ln,False
+8,0.4,Break Tower: Chesapeak River Ln,False
+8,0.4,Break Tower: Nguyen Engineering,False
+8,0.4,Break Tower: Patriot Cir,False
+8,0.4,Break Tower: Rivanna River Way,False
+8,0.5,Break Tower: Aquia_Creek Ln,True
+8,0.5,Break Tower: Chesapeak River Ln,True
+8,0.5,Break Tower: Nguyen Engineering,True
+8,0.5,Break Tower: Patriot Cir,False
+8,0.5,Break Tower: Rivanna River Way,True
+8,0.6,Break Tower: Aquia_Creek Ln,True
+8,0.6,Break Tower: Chesapeak River Ln,True
+8,0.6,Break Tower: Nguyen Engineering,True
+8,0.6,Break Tower: Patriot Cir,False
+8,0.6,Break Tower: Rivanna River Way,True
+8,0.7,Break Tower: Aquia_Creek Ln,True
+8,0.7,Break Tower: Chesapeak River Ln,True
+8,0.7,Break Tower: Nguyen Engineering,True
+8,0.7,Break Tower: Patriot Cir,False
+8,0.7,Break Tower: Rivanna River Way,True
+8,0.7999999999999999,Break Tower: Aquia_Creek Ln,True
+8,0.7999999999999999,Break Tower: Chesapeak River Ln,True
+8,0.7999999999999999,Break Tower: Nguyen Engineering,True
+8,0.7999999999999999,Break Tower: Patriot Cir,True
+8,0.7999999999999999,Break Tower: Rivanna River Way,True
+8,0.8999999999999999,Break Tower: Aquia_Creek Ln,True
+8,0.8999999999999999,Break Tower: Chesapeak River Ln,True
+8,0.8999999999999999,Break Tower: Nguyen Engineering,True
+8,0.8999999999999999,Break Tower: Patriot Cir,True
+8,0.8999999999999999,Break Tower: Rivanna River Way,True
+8,0.9999999999999999,Break Tower: Aquia_Creek Ln,True
+8,0.9999999999999999,Break Tower: Chesapeak River Ln,True
+8,0.9999999999999999,Break Tower: Nguyen Engineering,True
+8,0.9999999999999999,Break Tower: Patriot Cir,True
+8,0.9999999999999999,Break Tower: Rivanna River Way,True
+9,0.0,Break Tower: Aquia_Creek Ln,False
+9,0.0,Break Tower: Chesapeak River Ln,False
+9,0.0,Break Tower: Nguyen Engineering,False
+9,0.0,Break Tower: Patriot Cir,False
+9,0.0,Break Tower: Rivanna River Way,False
+9,0.1,Break Tower: Aquia_Creek Ln,False
+9,0.1,Break Tower: Chesapeak River Ln,False
+9,0.1,Break Tower: Nguyen Engineering,False
+9,0.1,Break Tower: Patriot Cir,False
+9,0.1,Break Tower: Rivanna River Way,False
+9,0.2,Break Tower: Aquia_Creek Ln,True
+9,0.2,Break Tower: Chesapeak River Ln,True
+9,0.2,Break Tower: Nguyen Engineering,True
+9,0.2,Break Tower: Patriot Cir,True
+9,0.2,Break Tower: Rivanna River Way,True
+9,0.30000000000000004,Break Tower: Aquia_Creek Ln,True
+9,0.30000000000000004,Break Tower: Chesapeak River Ln,True
+9,0.30000000000000004,Break Tower: Nguyen Engineering,True
+9,0.30000000000000004,Break Tower: Patriot Cir,True
+9,0.30000000000000004,Break Tower: Rivanna River Way,True
+9,0.4,Break Tower: Aquia_Creek Ln,True
+9,0.4,Break Tower: Chesapeak River Ln,True
+9,0.4,Break Tower: Nguyen Engineering,True
+9,0.4,Break Tower: Patriot Cir,True
+9,0.4,Break Tower: Rivanna River Way,True
+9,0.5,Break Tower: Aquia_Creek Ln,True
+9,0.5,Break Tower: Chesapeak River Ln,True
+9,0.5,Break Tower: Nguyen Engineering,True
+9,0.5,Break Tower: Patriot Cir,True
+9,0.5,Break Tower: Rivanna River Way,True
+9,0.6,Break Tower: Aquia_Creek Ln,True
+9,0.6,Break Tower: Chesapeak River Ln,True
+9,0.6,Break Tower: Nguyen Engineering,True
+9,0.6,Break Tower: Patriot Cir,True
+9,0.6,Break Tower: Rivanna River Way,True
+9,0.7,Break Tower: Aquia_Creek Ln,True
+9,0.7,Break Tower: Chesapeak River Ln,True
+9,0.7,Break Tower: Nguyen Engineering,True
+9,0.7,Break Tower: Patriot Cir,True
+9,0.7,Break Tower: Rivanna River Way,True
+9,0.7999999999999999,Break Tower: Aquia_Creek Ln,True
+9,0.7999999999999999,Break Tower: Chesapeak River Ln,True
+9,0.7999999999999999,Break Tower: Nguyen Engineering,True
+9,0.7999999999999999,Break Tower: Patriot Cir,True
+9,0.7999999999999999,Break Tower: Rivanna River Way,True
+9,0.8999999999999999,Break Tower: Aquia_Creek Ln,True
+9,0.8999999999999999,Break Tower: Chesapeak River Ln,True
+9,0.8999999999999999,Break Tower: Nguyen Engineering,True
+9,0.8999999999999999,Break Tower: Patriot Cir,True
+9,0.8999999999999999,Break Tower: Rivanna River Way,True
+9,0.9999999999999999,Break Tower: Aquia_Creek Ln,True
+9,0.9999999999999999,Break Tower: Chesapeak River Ln,True
+9,0.9999999999999999,Break Tower: Nguyen Engineering,True
+9,0.9999999999999999,Break Tower: Patriot Cir,True
+9,0.9999999999999999,Break Tower: Rivanna River Way,True
