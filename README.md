@@ -41,4 +41,8 @@ Two jammers were introduced in the simulation. The key idea of jamming is to set
 ## Arena
 Arena simulation was used to model and simulate the threat patterns of intrusion detection and privilege escalation. 
 * Intrusion detection: This tool provides a user with the ability to construct a representative network system then setup and execute a series of cyber-attacks on certain target machines within that network. When a computer network has been created, an attack scenario can be setup and run on the network. An attack scenario consists of a series of specified cyber-attacks occurring over a period of time along with a specified quantity of network noise.
-* privilege escalation: users from different locations along with admins and intruders will attempt to request the system for an assigned role. The system then will perform authentication on the individual based on their required responsibilities and capabilities, and either confirm or deny the request. The results of the request determine the privileges assigned along with the role of each user.
+* Privilege Escalation: users from different locations along with admins and intruders will attempt to request the system for an assigned role. The system then will perform authentication on the individual based on their required responsibilities and capabilities, and either confirm or deny the request. The results of the request determine the privileges assigned along with the role of each user.
+
+Important files:
+* RBAC Model Implementation.doe - this file contains an example implementation of the RBAC role-based access control model and simulation
+* Use Case Model Implementation.doe - this file contains an example implementation of the use case streaming service model and simulation
