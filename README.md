@@ -14,11 +14,11 @@ The entire system is broken down into 4 components:
 The use case scenarios for each actor is defined for the streaming service include:  
 
 The use case diagram covers the following use case scenarios:
-Scenario 1: User Access to Data Center - A process by which a general authorized user logs into the Data Center using their credentials.
-Scenario 2: System Admin Access to Data Center - A process by which a System Administrator logs into the Data Center using their credentials. 
-Scenario 3: Security Admin Access to Data Center - A process by which a Security Administrator logs into the Data Center using their credentials 
-Scenario 4: Malicious Actor Penetrates System - A process by which an external malicious actor attacks the system.  
-Scenario 5: Insider Threat Actor Penetrates System - A process by which an inside threat actor intentionally attacks or accidentally harms the system.  
+* Scenario 1: User Access to Data Center - A process by which a general authorized user logs into the Data Center using their credentials.
+* Scenario 2: System Admin Access to Data Center - A process by which a System Administrator logs into the Data Center using their credentials. 
+* Scenario 3: Security Admin Access to Data Center - A process by which a Security Administrator logs into the Data Center using their credentials 
+* Scenario 4: Malicious Actor Penetrates System - A process by which an external malicious actor attacks the system.  
+* Scenario 5: Insider Threat Actor Penetrates System - A process by which an inside threat actor intentionally attacks or accidentally harms the system.  
 
 ## SimPy
 
