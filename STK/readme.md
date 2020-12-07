@@ -1,1 +1,5 @@
-This is a read me
+#STK
+The STK tool was used to simulate the jamming attack. The team used STK to design a network for the communication between a sensor to a controller. To design this the transmitter was implemented in the sensor. A digital transponder was designed in the geo-synchronized satellite with the combination of receiver and a transmitter. The controller has a receiver implemented in it. Two jammers were introduced in the simulation. The key idea of jamming is to set the jammer towards the target and the right frequency.
+
+* The jammer 1 is not set to the right target and frequency, thus there is no connection to the controller as it has no effect on the network. This part of the model demonstrates the scenario of an unsuccessful jammer.
+* The jammer 2 is set with the right target and frequency so it can induce noise in the system making a successful attack. Currently the link between the satellite to the controller for the sensor and jammer are not synchronized. With the trial license of STK, the team could not find the right resources in STK to synchronize the communication link in the model. If future programmers can successfully synchronize the communication link, then the jamming attack can be simulated and analyzed
